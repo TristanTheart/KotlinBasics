@@ -1,5 +1,5 @@
 
-[![Project Logo/Image]](https://link-to-your-project-website-or-repository)
+[![Project Logo/Image]](https://github.com/TristanTheart/KotlinBasics/blob/master/coding.jpg)
 
 ## Introduction
 
