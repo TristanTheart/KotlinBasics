@@ -19,4 +19,9 @@ shoppingList.remove("GPU RTX 4060")
     println(shoppingList)
 
 
+    println(shoppingList.size)
+    for(index in 0 until  shoppingList.size){
+    println("item ${shoppingList[index]} is at index $index")
+    }
 }
+
